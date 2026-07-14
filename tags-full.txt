@@ -1,0 +1,164 @@
+=== v1.0.0 ===
+tag v1.0.0
+Tagger: Lexie Zhao <lexiezhao762@gmail.com>
+Date:   Tue Jul 14 15:55:56 2026 +0800
+
+初始发布版本
+
+commit e98f07902f808efd19215f6f4c05627e37b6a0e0
+Author: Lexie Zhao <lexiezhao762@gmail.com>
+Date:   Tue Jul 14 15:55:12 2026 +0800
+
+    Initial commit
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..32d6b94
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# My Project v1.0
+diff --git a/main.py b/main.py
+new file mode 100644
+index 0000000..701322a
+--- /dev/null
++++ b/main.py
+@@ -0,0 +1 @@
++Initial code
+
+=== v1.0.1 ===
+tag v1.0.1
+Tagger: Lexie Zhao <lexiezhao762@gmail.com>
+Date:   Tue Jul 14 16:01:39 2026 +0800
+
+补丁：功能1修复
+
+commit bae68bf003196710fca0a7badd1127289cb9988a
+Author: Lexie Zhao <lexiezhao762@gmail.com>
+Date:   Tue Jul 14 15:57:03 2026 +0800
+
+    添加功能1
+
+diff --git a/main.py b/main.py
+index 701322a..fa42806 100644
+--- a/main.py
++++ b/main.py
+@@ -1 +1,2 @@
+ Initial code
++Feature 1 added
+
+=== v1.0.2 ===
+tag v1.0.2
+Tagger: Lexie Zhao <lexiezhao762@gmail.com>
+Date:   Tue Jul 14 16:36:33 2026 +0800
+
+Emergency hotfix:Security fix for v1.0
+
+Critical security patch:
+-Fixed CVE-2026-1234
+-Resolved authentication bypass
+-Applied to v1.0.x branch only
+
+commit d1a2fc946039bf9e437846049c7f738bc5c61cf7
+Author: Lexie Zhao <lexiezhao762@gmail.com>
+Date:   Tue Jul 14 16:34:25 2026 +0800
+
+    Security hotfix for v1.0 users
+
+diff --git a/README.md b/README.md
+index 32d6b94..9ddba7c 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+ # My Project v1.0
++Hotfix:Critical security fix for v1.0 users
+
+=== v1.1.0 ===
+tag v1.1.0
+Tagger: Lexie Zhao <lexiezhao762@gmail.com>
+Date:   Tue Jul 14 16:03:20 2026 +0800
+
+小版本更新：功能2
+
+commit ba29a56b7cc3965b525985d258a4cab31a773037
+Author: Lexie Zhao <lexiezhao762@gmail.com>
+Date:   Tue Jul 14 16:02:43 2026 +0800
+
+    添加功能2
+
+diff --git a/main.py b/main.py
+index fa42806..b9f2e08 100644
+--- a/main.py
++++ b/main.py
+@@ -1,2 +1,3 @@
+ Initial code
+ Feature 1 added
++Feature 2 added
+
+=== v1.2.0 ===
+tag v1.2.0
+Tagger: Lexie Zhao <lexiezhao762@gmail.com>
+Date:   Tue Jul 14 16:17:52 2026 +0800
+
+Release: Version 1.2.0
+
+Features:
+-Added user authentication
+-Improved error handling
+-Performance optimizations
+
+Bug fixes:
+-Fixed crash on startup
+-Memory leak resolved
+
+commit ba29a56b7cc3965b525985d258a4cab31a773037
+Author: Lexie Zhao <lexiezhao762@gmail.com>
+Date:   Tue Jul 14 16:02:43 2026 +0800
+
+    添加功能2
+
+diff --git a/main.py b/main.py
+index fa42806..b9f2e08 100644
+--- a/main.py
++++ b/main.py
+@@ -1,2 +1,3 @@
+ Initial code
+ Feature 1 added
++Feature 2 added
+
+=== v2.0.0 ===
+tag v2.0.0
+Tagger: Lexie Zhao <lexiezhao762@gmail.com>
+Date:   Tue Jul 14 16:22:03 2026 +0800
+
+Major Release: Version 2.0.0
+
+Breaking changes:
+-Updated API structure
+-New configuration format
+
+New features:
+-Complete UI redesign
+-Added plugin system
+-Multi-language support
+
+Improvements:
+-50% faster performance
+-Better security
+-Enhanced documentation
+
+commit ba29a56b7cc3965b525985d258a4cab31a773037
+Author: Lexie Zhao <lexiezhao762@gmail.com>
+Date:   Tue Jul 14 16:02:43 2026 +0800
+
+    添加功能2
+
+diff --git a/main.py b/main.py
+index fa42806..b9f2e08 100644
+--- a/main.py
++++ b/main.py
+@@ -1,2 +1,3 @@
+ Initial code
+ Feature 1 added
++Feature 2 added
+
