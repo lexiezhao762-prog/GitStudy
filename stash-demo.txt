@@ -1,3 +1,0 @@
-Git Stash Learning
-More Learning
-Git Diff
